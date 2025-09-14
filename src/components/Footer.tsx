@@ -9,7 +9,9 @@ const Footer = () => {
             </h3>
             <div className="gothic-body space-y-2">
               <p>info@gothicgodz.com</p>
-              <p>+91 90XXX XXXXX</p>
+              <a href="https://www.instagram.com/gothic.godz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer">
+                Follow us on Instagram <br></br> @gothic.godz
+              </a>
             </div>
           </div>
           
