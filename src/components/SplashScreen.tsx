@@ -41,7 +41,6 @@ const SplashScreen = ({ onComplete }: SplashScreenProps) => {
         />
         <div className="absolute -bottom-16 left-1/2 transform -translate-x-1/2 animate-fade-in-up">
           <p className="text-muted-foreground text-sm font-light tracking-widest">
-            CLICK TO ENTER
           </p>
         </div>
       </div>
